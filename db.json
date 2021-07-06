@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "city": "Swat",
+      "country": "Pakistan",
+      "locations": [
+        {
+          "name": "Shamm BABa",
+          "description": "Tourism Spot"
+        },
+        {
+          "name": "Kanju",
+          "description": "Swat"
+        },
+        {
+          "name": "bahrain",
+          "description": "Tourism spot"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "city": "KAnju",
+      "country": "Swat",
+      "id": 2
+    }
+  ]
+}
